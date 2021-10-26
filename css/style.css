@@ -99,7 +99,8 @@ pre {
 .showcase {
 	height: 400px;
 	/* background-color: var(--primary-color); */
-	background-color: var(--dark-color);
+	/* background-color: var(--dark-color); */
+	background-image: url(../images/2container/hero.png);
 	color: #fff;
 	position: relative;
 }
