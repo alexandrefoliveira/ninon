@@ -121,10 +121,12 @@ pre {
 
 .showcase h1 {
 	font-size: 40px;
+	font-weight: 900;
 }
 
 .showcase p {
 	margin: 20px 0;
+	font-weight: 900;
 }
 
 .showcase .grid {
