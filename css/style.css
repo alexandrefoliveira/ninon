@@ -97,7 +97,7 @@ pre {
 
 /* Showcase */
 .showcase {
-	height: 400px;
+	height: 600px;
 	/* background-color: var(--primary-color); */
 	/* background-color: var(--dark-color); */
 	background-image: url(../images/2container/hero.png);
@@ -183,7 +183,7 @@ pre {
 
 /* Stats */
 .stats {
-	padding-top: 200px;
+	padding-top: 100px;
 	animation: slideInFromBottom 1s ease-in;
 }
 
