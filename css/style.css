@@ -119,6 +119,16 @@ pre {
 	font-size: small;
 }
 
+.container-logo-1000 {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+.logo-1000 {
+	width: 200px;
+	margin-right: 220px;
+}
+
 .showcase h1 {
 	font-size: 40px;
 	font-weight: 900;
@@ -142,7 +152,7 @@ pre {
 .showcase-form {
 	position: relative;
 	top: 60px;
-	height: 410px;
+	height: 370px;
 	width: 400px;
 	padding: 40px;
 	padding-top: 20px;
